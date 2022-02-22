@@ -1,0 +1,227 @@
+ <!-- =======================================================
+   * Designer : Kaos2)
+   * Design Date : 20.10.2021
+   * Pricing : Free
+   * Html Kit : Bootstrap and Custom
+  ======================================================== -->
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from tanitim.vslikkaos2.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 09 Feb 2022 15:56:48 GMT -->
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <link href="assets/img/favicon.html" rel="icon">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Satisfy" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+
+<script async src='cdn-cgi/challenge-platform/h/g/scripts/invisible.js'></script></head>
+
+<body>
+
+  <header id="header" class="fixed-top d-flex justify-content-center align-items-center header-transparent">
+    <nav id="navbar" class="navbar">
+      <ul>
+        <li><a class="nav-link scrollto" href="#hero">Giriş</a></li>
+        <li><a class="nav-link scrollto" href="#general">Genel Özellikler</a></li>
+        <li><a class="nav-link scrollto" href="#npc">Discord</a></li>
+        <li><a class="nav-link scrollto" href="#efsun">Afiş</a></li>
+        <li><a class="nav-link scrollto " href="#systems">Sistem Gereksinimi</a></li>
+      </ul>
+      <i class="bi bi-list mobile-nav-toggle"></i>
+    </nav>
+
+  </header>
+  <section id="hero">
+    <div class="hero-container">
+        <img src="../i.hizliresim.com/fsuzmir.jpg" style="width: 500px;" alt="">
+      
+      <h2>Legend Online Reborn</h2>
+
+      <div class="row">
+        <div class="col">
+          <a href=https://lortr.glitch.me/><button class="r-btn"><i class="bx bx-home"></i> Anasayfa</button></a>
+          <a href=https://gamebox3.oasgames.com/gamebox/download.php?g=lortr><button class="r-btn"><i class="bx bx-download"></i> Oyunu İndir</button></a>
+        </div>
+      </div>
+
+      <a href="#general" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
+    </div>
+  </section>
+
+  <main id="main">
+    <section id="general" class="general">
+      <div class="container">
+
+        <div class="section-title">
+          <span>Genel Özellikler</span>
+          <h2>Genel Özellikler</h2>
+        </div>
+        
+        <div class="row">
+          <div class="col-md-4">
+            <div class="r-item">Peri Sistemi</div>
+            <div class="r-item">Klan/Birlik Sistemi</div>
+            <div class="r-item">Çeşitli Etkinlikler</div>
+            <div class="r-item">Eski Legend Online Keyfi</div>
+            <div class="r-item">Samimi Ortam</div>
+          </div>
+          <div class="col-md-4">
+            <img src="../i.hizliresim.com/fsuzmir.jpg" style="width: 100%;" alt="">
+          </div>
+          <div class="col-md-4">
+            <div class="r-item">Düşük Sistem Gereksinimi</div>
+            <div class="r-item">Amfi</div>
+            <div class="r-item">Grup Sahne</div>
+            <div class="r-item">Eski Ek Sahne Sistemi</div>
+            <div class="r-item">QTE Skill Yeteneği</div>
+    
+	</div>
+
+        </div>
+
+      </div>
+    </section>
+    <section id="npc" class="r-dark-sec">
+      <div class="r-dark-trans">
+        <div class="section-title">
+          <span>Discord</span>
+        <center></div>
+        <div class="container">
+          <div class="row mt-3">
+              <div class="col-6 col-md-3 mb-4">
+                <div class="r-npc-box">
+                  <img src="../i.hizliresim.com/sxff7ww.jpg" alt="">
+                  <span>https://discord.gg/4Vutj5QpR9</span>
+                
+                </div>
+              </div>
+              
+          </div>
+        </div>
+		</center>
+      </div>
+    </section>
+    <section id="efsun" class="efsun">
+      <div class="container">
+
+        <div class="section-title">
+          <span>Afiş</span>
+          <h2>Afiş</h2>
+        </div>
+        
+        <center><img src="https://media.discordapp.net/attachments/945687216548642854/945745848170598540/reborn_afis.png?width=688&height=430" alt="AFİŞ"></center>
+      </div>
+    </section>
+    <section id="systems" class="r-systems">
+      <div class="r-dark-trans">
+        <div class="container">
+
+          <div class="section-title">
+            <span>Sistem Gereksinimi</span>
+            <h2></h2>
+          </div>
+          
+          <center><div class="r-box">
+            <div class="row">
+              <div class="col-md-6">
+                <img src="../i.hizliresim.com/komk7xu.jpg" style="width: 100%;" alt="">
+               </div>
+               <div class="col-md-6" style="align-self: center;">
+                <div class="r-box-bg">
+                  <div class="r-title">
+                    İşletim Sistemi: Windows XP, Win 7, Vista ve tüm Windows sistemleri.
+                  </div>
+                  <div class="r-dec">             
+                  </div>
+                </div>
+              </div>
+    
+            </div>
+          </div>
+          <div class="r-box">
+            <div class="row">
+              <div class="col-md-6">
+                <img src="../i.hizliresim.com/4ah3vs8.jpg" style="width: 100%;" alt="">
+               </div>
+               <div class="col-md-6" style="align-self: center;">
+                <div class="r-box-bg">
+                  <div class="r-title">
+                    Windows sistemleri İşlemci: 2 GHz İşlemci.
+                  </div>
+                  <div class="r-dec">
+                  </div>
+                </div>
+              </div>
+    
+            </div>
+          </div>
+          <div class="r-box">
+            <div class="row">
+              <div class="col-md-6">
+                <img src="../i.hizliresim.com/f3afcoe.jpg" style="width: 100%;" alt="">
+               </div>
+               <div class="col-md-6" style="align-self: center;">
+                <div class="r-box-bg">
+                  <div class="r-title">
+                    Ram: Win XP için 1 GB RAM, Win 7/Vista için 2 GB RAM.
+                  </div>
+                  <div class="r-dec">
+                  </div>
+                </div>
+              </div>
+    
+            </div>
+          </div>
+          <div class="r-box">
+            <div class="row">
+              <div class="col-md-6">
+                <img src="../i.hizliresim.com/qubncpp.jpg" style="width: 100%;" alt="">
+               </div>
+               <div class="col-md-6" style="align-self: center;">
+                <div class="r-box-bg">
+                  <div class="r-title">
+                    Ekran Kartı: Shader 2.0 destekli ve DirectX 9.0c destekli ekran kartı
+                  </div>
+                  <div class="r-dec">
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+  </main>
+
+  
+  <footer id="footer">
+    <div class="container">
+      <div class="social-links">
+        <a href="https://www.facebook.com/Vslikkaos2" target="_blank" class="discord"><i class="bx bxl-discord"></i></a>
+      </div>
+      <div class="copyright">
+        &copy; Copyright <strong><span>Legend Online 2</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+      </div>
+    </div>
+  </footer>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/js/main.js"></script>
+
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6dae4a698c0f627d',m:'ao5ufOMbzVCBFzaFwZjqN.AGXc7Pf_R_LVhc82E2VB4-1644422217-0-ARjGhqScXWrouOBDx9rWuroe1gjR6793LpRRBlcOpOVwRtRp9JRkYRRH4p3v2qEMnjBDRs/ctbzugXMMPnioPnTLfqH7+Gt6QQ0zoGWXHrRzxKinW+R5WymKAfmJ0DdmSA==',s:[0x2ead6d4f42,0xd9b67491cf],u:'/cdn-cgi/challenge-platform/h/g'}})();</script></body>
+
+
+<!-- Mirrored from tanitim.vslikkaos2.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 09 Feb 2022 15:56:55 GMT -->
+</html>
